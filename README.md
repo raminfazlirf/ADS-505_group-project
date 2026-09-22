@@ -9,9 +9,11 @@ This project analyzes the Rossmann Store Sales dataset (1,115 stores in Germany)
 We apply statistical methods (hypothesis testing, regression modeling) to identify what drives sales variance and provide data-backed recommendations for promotional strategy.
 
 ## Team
-- Ramin Fazli — Data Foundation & EDA
-- Christopher Andra — Modeling & Analysis
-- Danitza Loya — Executive Communication
+- Ramin Fazli: Part 1, Data Cleaning and EDA
+- Christopher Andra: Part 2, Feature Engineering and Statistical Analysis
+- Danitza Loya: Part 3, Modeling, Tuning, and Final Model Selection
+
+All three members contribute together to the Discussion and Conclusion, Model Brief, README/GitHub cleanup, Executive Brief, Presentation and Video, and AI Reflection Log.
 
 ## Repository Structure
 ```
@@ -46,10 +48,13 @@ Files used: `train.csv`, `store.csv`, `test.csv`
 Open `notebooks/` in Jupyter or Google Colab and run cells top to bottom. Each notebook begins with a package import cell and is organized with markdown headings for EDA, preprocessing, modeling, and results.
 
 ## Contributions
-| Member | Contribution |
-|---|---|
-| Ramin Fazli | Data cleaning, EDA, GitHub repo setup |
-| Christopher Andra | Statistical modeling, hypothesis testing, model brief |
-| Danitza Loya | Executive brief, presentation, task coordination |
+| Member | Part | Contribution |
+|---|---|---|
+| Ramin Fazli | Part 1 | Problem statement, data description, data loading/merging, data quality checks, data cleaning, EDA on sales patterns (promotions, store type, holidays, day/month, competition), GitHub repo setup |
+| Christopher Andra | Part 2 | Feature engineering, promotion effectiveness analysis by store type/season/holidays/competition, feature selection, train/validation/test split |
+| Danitza Loya | Part 3 | Model selection rationale, initial modeling, model comparison, hyperparameter tuning, final model evaluation |
 
-All members contributed to the AI Reflection Log.
+All members contribute to the Discussion and Conclusion, Model Brief, Executive Brief, Executive Presentation, and AI Reflection Log.
+
+## Notebooks
+- `01_data_cleaning_eda.ipynb`: Part 1, problem setup, data cleaning, and exploratory data analysis
