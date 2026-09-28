@@ -10,8 +10,8 @@ We apply statistical methods (hypothesis testing, regression modeling) to identi
 
 ## Team
 - Ramin Fazli: Part 1, Data Cleaning and EDA
-- Christopher Andra: Part 2, Feature Engineering and Statistical Analysis
-- Danitza Loya: Part 3, Modeling, Tuning, and Final Model Selection
+- Danitza Loya: Part 2, Feature Engineering and Statistical Analysis
+- Christopher Andra: Part 3, Modeling, Tuning, and Final Model Selection
 
 All three members contribute together to the Discussion and Conclusion, Model Brief, README/GitHub cleanup, Executive Brief, Presentation and Video, and AI Reflection Log.
 
