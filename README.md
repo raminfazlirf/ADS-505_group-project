@@ -51,10 +51,11 @@ Open `notebooks/` in Jupyter or Google Colab and run cells top to bottom. Each n
 | Member | Part | Contribution |
 |---|---|---|
 | Ramin Fazli | Part 1 | Problem statement, data description, data loading/merging, data quality checks, data cleaning, EDA on sales patterns (promotions, store type, holidays, day/month, competition), GitHub repo setup |
-| Christopher Andra | Part 2 | Feature engineering, promotion effectiveness analysis by store type/season/holidays/competition, feature selection, train/validation/test split |
-| Danitza Loya | Part 3 | Model selection rationale, initial modeling, model comparison, hyperparameter tuning, final model evaluation |
+| Danitza Loya | Part 2 | Feature engineering, promotion effectiveness analysis by store type/season/holidays/competition, feature selection, train/validation/test split |
+| Christopher Andra | Part 3 | Model selection rationale, initial modeling, model comparison, hyperparameter tuning, final model evaluation |
 
 All members contribute to the Discussion and Conclusion, Model Brief, Executive Brief, Executive Presentation, and AI Reflection Log.
 
 ## Notebooks
 - `01_data_cleaning_eda.ipynb`: Part 1, problem setup, data cleaning, and exploratory data analysis
+- `02_modeling_preparation.ipynb`: Part 2, feature engineering, leakage prevention, and time‑based splitting
